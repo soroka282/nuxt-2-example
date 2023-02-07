@@ -36,6 +36,7 @@
     "eslint-plugin-jest": "^25.2.4",
     "eslint-plugin-jsdoc": "^36.0.7",
     "eslint-plugin-nuxt": "^2.0.0",
+    "gh-pages": "^5.0.0",
     "postcss-import": "12.0.1",
     "sass": "^1.54.0",
     "sass-loader": "^10.1.1"
